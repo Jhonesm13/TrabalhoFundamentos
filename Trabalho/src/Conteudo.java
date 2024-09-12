@@ -1,3 +1,3 @@
-public interface Conteudo {
+interface Conteudo {
     void acessar();
 }
